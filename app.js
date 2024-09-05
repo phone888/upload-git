@@ -4,3 +4,7 @@ class Car {
     this.year = year;
   }
 }
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
