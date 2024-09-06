@@ -5,6 +5,5 @@ class Car {
   }
 }
 
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
+let number = ["1", "2", "3"];
+console.log(number());
