@@ -4,3 +4,4 @@ const Universe = (name: string, address: number) => {
 };
 const res = Universe("world", 123);
 console.log(res);
+// Hellow Unicerse 2024
